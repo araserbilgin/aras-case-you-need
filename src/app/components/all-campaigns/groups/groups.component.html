@@ -1,0 +1,68 @@
+<!-- <table datatable [dtOptions]="dtCampaignGroupsOptions" [dtTrigger]="dtCampaignGroupsTrigger" class="row-border hover">
+  <thead>
+    <tr>
+      <th>Campaign Name</th>
+      <th>Schedule</th>
+      <th>Budget</th>
+      <th>Clicks</th>
+      <th>CPC</th>
+      <th>CTR</th>
+      <th>CONV.</th>
+      <th>Spend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let campaignGroup of campaignGroupsList">
+      <td>{{campaignGroup.campaignGroup.name}}</td>
+      <td>{{campaignGroup.campaignGroup.startDate}}</td>
+      <td>{{campaignGroup.campaignGroup.campaignBudgetDetail.campaignBudget.period}}</td>
+      <td>{{campaignGroup.metrics.clicks}}</td>
+      <td>{{campaignGroup.metrics.costPerConversion}}</td>
+      <td>{{campaignGroup.metrics.ctr}}</td>
+      <td>{{campaignGroup.metrics.conversions}}</td>
+      <td>{{campaignGroup.metrics.costMicros}}</td>
+    </tr>
+  </tbody>
+</table> -->
+<p-table [value]="campaignGroupsList" #dt1 [paginator]="true" [rows]="25" [showCurrentPageReport]="true"
+[autoLayout]="true" [globalFilterFields]="globalFilterFields" [resizableColumns]="true"
+responsiveLayout="scroll"
+[rowsPerPageOptions]="[10,25,50]" styleClass="p-datatable-gridlines">
+<ng-template pTemplate="caption">
+  <div class="">
+    <div class="input-group w-100">
+      <span class="input-group-text caseyouneed-input-group-style" id="basic-addon1">@</span>
+      <input type="text" class="form-control caseyouneed-form-style" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+    </div>
+  </div>
+</ng-template>
+<ng-template pTemplate="header">
+  <tr>
+    <th width="9px">
+      <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
+    </th>
+    <th *ngFor="let col of groupsSearchListColumns"
+      [pSortableColumn]="col.field" [pSortableColumnDisabled]="!col.sortable">
+      <div *ngIf="col.field !== 'order'">
+        {{ col.header }}
+        <p-sortIcon *ngIf="col.sortable" [field]="col.field"></p-sortIcon>
+      </div>
+    </th>
+  </tr>
+</ng-template>
+  <ng-template pTemplate="body" let-campaignGroup>
+      <tr>
+        <td>
+          <p-tableCheckbox [value]="campaignGroup"></p-tableCheckbox>
+        </td>
+      <td>{{campaignGroup.campaignGroup.name}}</td>
+      <td>{{campaignGroup.campaignGroup.startDate}}</td>
+      <td>{{campaignGroup.campaignGroup.campaignBudgetDetail.campaignBudget.period}}</td>
+      <td>{{campaignGroup.metrics.clicks}}</td>
+      <td>{{campaignGroup.metrics.costPerConversion}}</td>
+      <td>{{campaignGroup.metrics.ctr}}</td>
+      <td>{{campaignGroup.metrics.conversions}}</td>
+      <td>{{campaignGroup.metrics.costMicros}}</td>
+      </tr>
+  </ng-template>
+</p-table>

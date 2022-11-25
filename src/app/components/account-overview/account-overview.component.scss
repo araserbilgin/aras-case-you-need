@@ -1,0 +1,107 @@
+.card {
+  background-color: #fff;
+  border-color: #DFE5F1;
+  border-radius: 10px;
+}
+.btn-badge {
+  width:5px;
+  height:22px;
+  display:inline-block;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius:5px;
+  position:relative;
+  top:2px;
+  right:11px;
+  background-color: red;
+}
+.active-orange:active {
+  background-color: #FF5700;
+  border-color:#FF5700;
+  color:#fff;
+}
+.active-orange:hover {
+  background-color: #ff550079;
+  border-color:#ff550079;
+  color:#fff;
+}
+.btn-badge.orange {
+  background-color:#FF5700;
+}
+.active-blue:active {
+  background-color: #0CD4F5;
+  border-color:#0CD4F5;
+  color:#fff;
+}
+.active-blue:hover {
+  background-color: #0cd6f57c;
+  border-color:#0cd6f57c;
+  color:#fff;
+}
+.btn-badge.blue {
+  background-color:#0CD4F5;
+}
+.active-green:active{
+  background-color: #03E98D;
+  border-color:#03E98D;
+  color:#fff;
+}
+.active-green:hover{
+  background-color: #03e98d93;
+  border-color:#03e98d93;
+  color:#fff;
+}
+.btn-badge.green {
+  background-color: #03E98D;
+}
+.active-gray:active{
+  background-color: #6E707F;
+  border-color:#6E707F;
+  color:#fff;
+}
+.active-gray:hover{
+  background-color: #6e707f8c;
+  border-color:#6e707f8c;
+  color:#fff;
+}
+.btn-badge.gray {
+  background-color: #6E707F;
+}
+.active-deep-purple:active{
+  background-color: #A263CB;
+  border-color:#A263CB;
+  color:#fff;
+}
+.active-deep-purple:hover{
+  background-color: #a163cb75;
+  border-color:#a163cb75;
+  color:#fff;
+}
+.btn-badge.deep-purple {
+  background-color: #A263CB;
+}
+.active-pink-floyd:active{
+  background-color: #CB638A;
+  border-color:#CB638A;
+  color:#fff;
+}
+.active-pink-floyd:hover{
+  background-color: #cb638983;
+  border-color:#cb638983;
+  color:#fff;
+}
+.btn-badge.pink-floyd {
+  background-color: #CB638A
+}
+.active-green-day:active{
+  background-color: #B3D527;
+  border-color:#B3D527;
+  color:#fff;
+}
+.active-green-day:active{
+  background-color: #b2d52775;
+  border-color:#b2d52775;
+  color:#fff;
+}
+.btn-badge.green-day {
+  background-color:#B3D527
+}

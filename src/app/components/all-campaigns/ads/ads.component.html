@@ -1,0 +1,69 @@
+<!-- <table datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger" class="row-border hover">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Schedule</th>
+      <th>Budget</th>
+      <th>Clicks</th>
+      <th>CPC</th>
+      <th>CTR</th>
+      <th>CONV.</th>
+      <th>Spend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let ad of adsList">
+      <td>{{ad.ad.name}}{{ad.ad.status}}</td>
+      <td>{{ad.ad.startDate}}</td>
+      <td>{{ad.ad.campaignBudgetDetail.campaignBudget.period}}</td>
+      <td>{{ad.metrics.clicks}}</td>
+      <td>{{ad.metrics.costPerConversion}}</td>
+      <td>{{ad.metrics.ctr}}</td>
+      <td>{{ad.metrics.conversions}}</td>
+      <td>{{ad.metrics.costMicros}}</td>
+    </tr>
+  </tbody>
+</table> -->
+
+<p-table [value]="adsList" #dt1 [paginator]="true" [rows]="25" [showCurrentPageReport]="true"
+[autoLayout]="true" [globalFilterFields]="globalFilterFields" [resizableColumns]="true"
+responsiveLayout="scroll"
+[rowsPerPageOptions]="[10,25,50]" styleClass="p-datatable-gridlines">
+<ng-template pTemplate="caption">
+  <div class="">
+    <div class="input-group w-100">
+      <span class="input-group-text caseyouneed-input-group-style" id="basic-addon1">@</span>
+      <input type="text" class="form-control caseyouneed-form-style" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+    </div>
+  </div>
+</ng-template>
+<ng-template pTemplate="header">
+  <tr>
+    <th width="9px">
+      <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
+    </th>
+    <th *ngFor="let col of adsSearchListColumns"
+      [pSortableColumn]="col.field" [pSortableColumnDisabled]="!col.sortable">
+      <div *ngIf="col.field !== 'order'">
+        {{ col.header }}
+        <p-sortIcon *ngIf="col.sortable" [field]="col.field"></p-sortIcon>
+      </div>
+    </th>
+  </tr>
+</ng-template>
+  <ng-template pTemplate="body" let-ad>
+      <tr>
+        <td>
+          <p-tableCheckbox [value]="ad"></p-tableCheckbox>
+        </td>
+        <td>{{ad.ad.name}}{{ad.ad.status}}</td>
+        <td>{{ad.ad.startDate}}</td>
+        <td>{{ad.ad.campaignBudgetDetail.campaignBudget.period}}</td>
+        <td>{{ad.metrics.clicks}}</td>
+        <td>{{ad.metrics.costPerConversion}}</td>
+        <td>{{ad.metrics.ctr}}</td>
+        <td>{{ad.metrics.conversions}}</td>
+        <td>{{ad.metrics.costMicros}}</td>
+      </tr>
+  </ng-template>
+</p-table>

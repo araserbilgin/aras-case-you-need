@@ -1,0 +1,524 @@
+[
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "16",
+      "conversions": 0,
+      "costMicros": "48180000",
+      "ctr": 0.04336043360433604,
+      "allConversions": 0,
+      "averageCpc": 3011250,
+      "impressions": "369"
+    },
+    "segments": {
+      "date": "2021-03-02"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "22",
+      "conversions": 0,
+      "costMicros": "62840000",
+      "ctr": 0.05759162303664921,
+      "allConversions": 0,
+      "averageCpc": 2856363.6363636362,
+      "impressions": "382"
+    },
+    "segments": {
+      "date": "2021-03-03"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "29",
+      "conversions": 0,
+      "costMicros": "60560000",
+      "ctr": 0.06170212765957447,
+      "allConversions": 0,
+      "averageCpc": 2088275.8620689656,
+      "impressions": "470"
+    },
+    "segments": {
+      "date": "2021-03-04"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "17",
+      "conversions": 0,
+      "costMicros": "52160000",
+      "ctr": 0.05120481927710843,
+      "allConversions": 0,
+      "averageCpc": 3068235.294117647,
+      "impressions": "332"
+    },
+    "segments": {
+      "date": "2021-03-05"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "9",
+      "conversions": 0,
+      "costMicros": "17570000",
+      "ctr": 0.05142857142857143,
+      "allConversions": 0,
+      "averageCpc": 1952222.2222222222,
+      "impressions": "175"
+    },
+    "segments": {
+      "date": "2021-03-06"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "11",
+      "conversions": 0,
+      "costMicros": "27030000",
+      "ctr": 0.0582010582010582,
+      "allConversions": 0,
+      "averageCpc": 2457272.727272727,
+      "impressions": "189"
+    },
+    "segments": {
+      "date": "2021-03-07"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "17",
+      "conversions": 0.6,
+      "costMicros": "48770000",
+      "costPerConversion": 81283333.33333334,
+      "ctr": 0.042606516290726815,
+      "allConversions": 0.6,
+      "averageCpc": 2868823.529411765,
+      "impressions": "399"
+    },
+    "segments": {
+      "date": "2021-03-08"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "16",
+      "conversions": 0,
+      "costMicros": "51380000",
+      "ctr": 0.04,
+      "allConversions": 0,
+      "averageCpc": 3211250,
+      "impressions": "400"
+    },
+    "segments": {
+      "date": "2021-03-09"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "18",
+      "conversions": 2,
+      "costMicros": "37680000",
+      "costPerConversion": 18840000,
+      "ctr": 0.06143344709897611,
+      "allConversions": 2,
+      "averageCpc": 2093333.3333333333,
+      "impressions": "293"
+    },
+    "segments": {
+      "date": "2021-03-10"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "11",
+      "conversions": 0,
+      "costMicros": "25520000",
+      "ctr": 0.05,
+      "allConversions": 0,
+      "averageCpc": 2320000,
+      "impressions": "220"
+    },
+    "segments": {
+      "date": "2021-03-11"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "6",
+      "conversions": 0,
+      "costMicros": "6800000",
+      "ctr": 0.08333333333333333,
+      "allConversions": 0,
+      "averageCpc": 1133333.3333333333,
+      "impressions": "72"
+    },
+    "segments": {
+      "date": "2021-03-12"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "14",
+      "conversions": 1,
+      "costMicros": "27210000",
+      "costPerConversion": 27210000,
+      "ctr": 0.05761316872427984,
+      "allConversions": 1,
+      "averageCpc": 1943571.4285714286,
+      "impressions": "243"
+    },
+    "segments": {
+      "date": "2021-03-13"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "21",
+      "conversions": 0,
+      "costMicros": "48070000",
+      "ctr": 0.03888888888888889,
+      "allConversions": 0,
+      "averageCpc": 2289047.619047619,
+      "impressions": "540"
+    },
+    "segments": {
+      "date": "2021-03-14"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "31",
+      "conversions": 1,
+      "costMicros": "76600000",
+      "costPerConversion": 76600000,
+      "ctr": 0.044349070100143065,
+      "allConversions": 1,
+      "averageCpc": 2470967.7419354836,
+      "impressions": "699"
+    },
+    "segments": {
+      "date": "2021-03-15"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "29",
+      "conversions": 1.4,
+      "costMicros": "100000000",
+      "costPerConversion": 71428571.42857143,
+      "ctr": 0.058704453441295545,
+      "allConversions": 1.4,
+      "averageCpc": 3448275.8620689656,
+      "impressions": "494"
+    },
+    "segments": {
+      "date": "2021-03-16"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "31",
+      "conversions": 0,
+      "costMicros": "95020000",
+      "ctr": 0.04252400548696845,
+      "allConversions": 0,
+      "averageCpc": 3065161.290322581,
+      "impressions": "729"
+    },
+    "segments": {
+      "date": "2021-03-17"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "22",
+      "conversions": 0,
+      "costMicros": "62030000",
+      "ctr": 0.048458149779735685,
+      "allConversions": 0,
+      "averageCpc": 2819545.4545454546,
+      "impressions": "454"
+    },
+    "segments": {
+      "date": "2021-03-18"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "25",
+      "conversions": 1,
+      "costMicros": "58630000",
+      "costPerConversion": 58630000,
+      "ctr": 0.031725888324873094,
+      "allConversions": 1,
+      "averageCpc": 2345200,
+      "impressions": "788"
+    },
+    "segments": {
+      "date": "2021-03-19"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "37",
+      "conversions": 2,
+      "costMicros": "79390000",
+      "costPerConversion": 39695000,
+      "ctr": 0.021650087770626096,
+      "allConversions": 2,
+      "averageCpc": 2145675.6756756757,
+      "impressions": "1709"
+    },
+    "segments": {
+      "date": "2021-03-20"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "29",
+      "conversions": 1,
+      "costMicros": "71700000",
+      "costPerConversion": 71700000,
+      "ctr": 0.02408637873754153,
+      "allConversions": 1,
+      "averageCpc": 2472413.793103448,
+      "impressions": "1204"
+    },
+    "segments": {
+      "date": "2021-03-21"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "25",
+      "conversions": 0,
+      "costMicros": "46170000",
+      "ctr": 0.022341376228775692,
+      "allConversions": 0,
+      "averageCpc": 1846800,
+      "impressions": "1119"
+    },
+    "segments": {
+      "date": "2021-03-22"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "19",
+      "conversions": 1.5,
+      "costMicros": "39520000",
+      "costPerConversion": 26346666.666666668,
+      "ctr": 0.022809123649459785,
+      "allConversions": 1.5,
+      "averageCpc": 2080000,
+      "impressions": "833"
+    },
+    "segments": {
+      "date": "2021-03-23"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "25",
+      "conversions": 1,
+      "costMicros": "37510000",
+      "costPerConversion": 37510000,
+      "ctr": 0.034106412005457026,
+      "allConversions": 1,
+      "averageCpc": 1500400,
+      "impressions": "733"
+    },
+    "segments": {
+      "date": "2021-03-24"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "26",
+      "conversions": 0,
+      "costMicros": "40400000",
+      "ctr": 0.04126984126984127,
+      "allConversions": 0,
+      "averageCpc": 1553846.1538461538,
+      "impressions": "630"
+    },
+    "segments": {
+      "date": "2021-03-25"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "24",
+      "conversions": 0,
+      "costMicros": "32910000",
+      "ctr": 0.033426183844011144,
+      "allConversions": 0,
+      "averageCpc": 1371250,
+      "impressions": "718"
+    },
+    "segments": {
+      "date": "2021-03-26"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "6",
+      "conversions": 0,
+      "costMicros": "8530000",
+      "ctr": 0.01054481546572935,
+      "allConversions": 0,
+      "averageCpc": 1421666.6666666667,
+      "impressions": "569"
+    },
+    "segments": {
+      "date": "2021-03-27"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "11",
+      "conversions": 0,
+      "costMicros": "13860000",
+      "ctr": 0.027777777777777776,
+      "allConversions": 0,
+      "averageCpc": 1260000,
+      "impressions": "396"
+    },
+    "segments": {
+      "date": "2021-03-28"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "32",
+      "conversions": 0,
+      "costMicros": "100730000",
+      "ctr": 0.0292772186642269,
+      "allConversions": 0,
+      "averageCpc": 3147812.5,
+      "impressions": "1093"
+    },
+    "segments": {
+      "date": "2021-03-29"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "22",
+      "conversions": 1,
+      "costMicros": "66580000",
+      "costPerConversion": 66580000,
+      "ctr": 0.022774327122153208,
+      "allConversions": 1,
+      "averageCpc": 3026363.6363636362,
+      "impressions": "966"
+    },
+    "segments": {
+      "date": "2021-03-30"
+    }
+  },
+  {
+    "customer": {
+      "resourceName": "customers/1481414841"
+    },
+    "metrics": {
+      "clicks": "13",
+      "conversions": 2,
+      "costMicros": "38130000",
+      "costPerConversion": 19065000,
+      "ctr": 0.034210526315789476,
+      "allConversions": 2,
+      "averageCpc": 2933076.923076923,
+      "impressions": "380"
+    },
+    "segments": {
+      "date": "2021-03-31"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "label": "Content View",
+      "value": "CONTENT_VIEW"
+    },
+    {
+      "label": "Search",
+      "value": "SEARCH"
+    },
+    {
+      "label": "Add to Cart",
+      "value": "ADD_TO_CART"
+    },
+    {
+      "label": "Add to Wishlist",
+      "value": "ADD_TO_WISHLIST"
+    },
+    {
+      "label": "Initiated Checkout",
+      "value": "INITIATED_CHECKOUT"
+    },
+    {
+      "label": "Add Payment Info",
+      "value": "ADD_PAYMENT_INFO"
+    },
+    {
+      "label": "Purchase",
+      "value": "PURCHASE"
+    },
+    {
+      "label": "Lead",
+      "value": "LEAD"
+    },
+    {
+      "label": "Contact",
+      "value": "CONTACT"
+    }
+]

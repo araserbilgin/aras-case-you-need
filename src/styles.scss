@@ -1,1 +1,285 @@
 /* You can add global styles to this file, and also import other style files */
+/* Importing Bootstrap SCSS file. */
+@import "node_modules/bootstrap/scss/bootstrap";
+
+ body {
+  background-color: #F3F5F9;
+ }
+ .hr-style {
+  border-radius: 10px;
+  background-color: #c0c1c4;
+  height: 10px;
+  border-top: 0px;
+ }
+
+/*---Button Overrides---*/
+.btn-primary {
+  background-color: rgba(12,212,245,0.75);
+  border-color:rgba(12,212,245,0.75);
+  border-radius: 10px;
+  padding: 8px 10px 8px 10px;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 600;
+}
+.btn-success {
+  background-color: #03E98D;
+  border-color:#03E98D;
+  color:#fff;
+  border-radius: 10px;
+  padding: 8px 10px 8px 10px;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 600;
+}
+.btn-secondary {
+  background-color: #6E707F;
+  border-color:#707070;
+  color:#fff;
+  border-radius: 10px;
+  padding: 8px 10px 8px 10px;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 600;
+}
+.btn-light {
+  color:#6E707F;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 400;
+  background-color: rgba(12,212,245,0);
+  border-color:#fff;
+}
+.btn-accordion {
+  background-color: #F3F5F9;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 400;
+  width: 16px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.btn-accordion:hover {
+  background-color: #d8dadd;
+}
+.btn-primary-box-shadow {
+  box-shadow: 0px -1px 29px -1px rgba(12,212,245,0.75);
+  -webkit-box-shadow: 0px -1px 29px -1px rgba(12,212,245,0.75);
+  -moz-box-shadow: 0px -1px 29px -1px rgba(12,212,245,0.75);
+}
+
+/*---Badge Overrides---*/
+
+.badge.bg-primary {
+  background-color: rgba(12, 212, 245, 0.75)!important;
+  border-color: rgba(12, 212, 245, 0.75);
+  border-radius: 4px;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: 400;
+  padding: 5px;
+}
+.btn-outline-light {
+  color:#BCBFCC;
+  border:1px solid #BCBFCC;
+  font-family: 'Poppins';
+  font-size: 14px;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  padding: 8px 10px 8px 10px;
+}
+/*---Card Overrides---*/
+.card {
+  background-color: #fff;
+  border-color: #DFE5F1;
+  border-radius: 10px;
+}
+/*---Nav Overrides---*/
+
+ul.nav > .nav-item > a {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(12, 212, 245, 0.75);
+  position: relative;
+  top: 2px;
+  height: 40px;
+  margin-top: 5px;
+}
+ul.nav > .nav-item > a.border-bottom-blue:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  height: 1px;
+  border: 2px solid rgba(12, 212, 245, 0.75);
+  background-color: rgba(12, 212, 245, 0.75);
+  border-radius : 10px;
+}
+.nav-link-icon {
+  margin-right: 5px;
+  position: relative;
+  top: -2px;
+}
+
+/*---Accordion Overrides---*/
+
+.accordion-button:not(.collapsed) {
+  font-size: 16px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  color: #6E707F;
+  border-color: #DFE5F1;
+  background-color: #fff;
+}
+.accordion-button {
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  color: #6E707F;
+  border-color: #DFE5F1;
+  background-color: #fff;
+}
+.accordion {
+  --bs-accordion-border-color: #DFE5F1;
+  --bs-accordion-border-width: 1px;
+  --bs-accordion-border-radius: 10px;
+  --bs-accordion-inner-border-radius: 10px;
+  --bs-accordion-btn-color: #212529;
+  --bs-accordion-btn-icon: none;
+  --bs-accordion-body-padding-x: 0.25rem;
+  --bs-accordion-body-padding-y: 1rem;
+}
+
+/*---Text Overrides---*/
+
+.text-light {
+  color:#BCBFCC!important;
+  font-family: 'Poppins';
+  font-size: 14px;
+}
+// table {
+//   border-collapse: separate;
+// }
+// td {
+//   border: solid 1px #E8EBF3;
+//   border-style: none solid solid none;
+//   padding: 5px;
+// }
+// tr {
+//   border: solid 1px #E8EBF3;
+//   border-style: none solid solid none;
+//   padding: 5px;
+// }
+// .p-datatable tr:first-child tr:first-child {
+//   border-top-left-radius: 10px;
+//   border-bottom-left-radius: 10px;
+// }
+// .p-datatable tr:first-child tr:last-child {
+//   border-top-right-radius: 10px;
+//   border-bottom-right-radius: 10px;
+// }
+// .p-datatable tr:last-child tr:first-child {
+//   border-top-left-radius: 10px;
+//   border-bottom-left-radius: 10px;
+// }
+// .p-datatable tr:last-child tr:last-child {
+//   border-top-left-radius: 10px;
+//   border-bottom-right-radius: 10px;
+// }
+// .p-datatable tr:first-child tr {
+//   border-top-style: solid;
+// }
+// .p-datatable tr td:first-child {
+//   border-left-style: solid;
+// }
+table {
+  border-collapse: separate;
+  border-spacing: 0 10px;
+  margin-top: -10px; /* correct offset on first border spacing if desired */
+  white-space: normal!important;
+}
+td {
+  border: solid 1px #000;
+  border-style: solid none;
+  padding: 10px;
+  background-color: #fff;
+}
+td:first-child {
+  border-left-style: solid;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+td:last-child {
+  border-right-style: solid;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.p-datatable-resizable-table>.p-datatable-thead>tr>th, .p-datatable-resizable-table>.p-datatable-tfoot>tr>td, .p-datatable-resizable-table>.p-datatable-tbody>tr>td {
+  overflow: hidden;
+  white-space: normal!important;
+}
+.p-datatable>.p-datatable-wrapper {
+  overflow: inherit!important;
+}
+.p-datatable tr:first-child td:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.p-datatable tr:first-child td:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.p-datatable tr:last-child td:first-child {
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.p-datatable tr:last-child td:last-child {
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.p-datatable tr:first-child td {
+  border-top-style: solid;
+}
+.p-datatable tr td:first-child {
+  border-left-style: solid;
+}
+.p-datatable .p-datatable-thead > tr > th {
+  text-align: center!important;
+  padding: 5px 12px!important;
+  border: 1px solid #fff!important;
+  border-width: 0 0 1px 0;
+  font-weight: 700!important;
+  color: #6E707F!important;
+  background: #F3F5F9!important;
+  transition: box-shadow 0.2s;
+  border-radius: 10px!important;
+  font-family: 'Poppins'!important;
+  font-size: 13px;
+}
+.p-datatable .p-datatable-header {
+  background: #fff!important;
+  color: #343a40!important;
+  border: 1px solid #fff!important;
+  border-width: 1px 1px 1px 1px;
+  padding: 0rem 0rem 1rem !important;
+  font-weight: 700;
+}
+.p-datatable .p-datatable-tbody > tr {
+  color: #6E707F!important;
+  font-family: 'Poppins'!important;
+  font-size: 14px!important;
+}
+.p-datatable.p-datatable-gridlines:has(.p-datatable-thead):has(.p-datatable-tbody) .p-datatable-tbody > tr > td {
+  border-width: 1px 0px 1px 1px!important;
+}
+.p-paginator {
+  border: none!important;
+}
+.big-checkbox {
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,26 @@
+<table datatable [dtOptions]="dtCampaignsOptions" [dtTrigger]="dtCampaignsTrigger" class="row-border hover">
+  <thead>
+    <tr>
+      <th>Campaign Name</th>
+      <th>Schedule</th>
+      <th>Budget</th>
+      <th>Clicks</th>
+      <th>CPC</th>
+      <th>CTR</th>
+      <th>CONV.</th>
+      <th>Spend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let campaign of campaignsList">
+      <td>{{campaign.campaign.name}}{{campaign.campaign.status}}</td>
+      <td>{{campaign.campaign.startDate}}</td>
+      <td>{{campaign.campaign.campaignBudgetDetail.campaignBudget.period}}</td>
+      <td>{{campaign.metrics.clicks}}</td>
+      <td>{{campaign.metrics.costPerConversion}}</td>
+      <td>{{campaign.metrics.ctr}}</td>
+      <td>{{campaign.metrics.conversions}}</td>
+      <td>{{campaign.metrics.costMicros}}</td>
+    </tr>
+  </tbody>
+</table>

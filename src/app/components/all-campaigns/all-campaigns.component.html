@@ -1,0 +1,35 @@
+<ul ngbNav #nav="ngbNav" [(activeId)]="active" class="nav-tabs border-bottom-light-gray padding-left-20">
+	<li [ngbNavItem]="1">
+		<a ngbNavLink>Groups</a>
+		<ng-template ngbNavContent>
+      <div class="card margin-left-20 mt-3">
+        <div class="card-body p-2">
+          <app-groups></app-groups>
+        </div>
+      </div>
+		</ng-template>
+	</li>
+	<li [ngbNavItem]="2">
+		<a ngbNavLink>Campaigns</a>
+		<ng-template ngbNavContent>
+      <div class="card margin-left-20 mt-3">
+        <div class="card-body p-2">
+			<app-campaigns></app-campaigns>
+    </div>
+  </div>
+		</ng-template>
+	</li>
+	<li [ngbNavItem]="3">
+		<a ngbNavLink>Ads</a>
+		<ng-template ngbNavContent>
+      <div class="card margin-left-20 mt-3">
+        <div class="card-body p-2">
+			    <app-ads></app-ads>
+        </div>
+      </div>
+		</ng-template>
+	</li>
+</ul>
+
+<div [ngbNavOutlet]="nav" class="mt-2"></div>
+

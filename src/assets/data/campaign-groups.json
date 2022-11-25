@@ -1,0 +1,2033 @@
+[
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9328791290",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "French Search Ads",
+      "id": "9328791290",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6809377679",
+      "startDate": "2020-02-12",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9328791290",
+          "id": "9328791290"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6809377679",
+          "period": "DAILY",
+          "id": "6809377679",
+          "amountMicros": "50000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "475",
+      "conversions": 32,
+      "costMicros": "913020000",
+      "costPerConversion": 26077500,
+      "ctr": 0.03341540626099191,
+      "allConversions": 35,
+      "averageCpc": 1922147.3684210526,
+      "impressions": "14215"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9335535322",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "English Search Ads",
+      "id": "9335535322",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6809347373",
+      "startDate": "2020-02-12",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9335535322",
+          "id": "9335535322"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6809347373",
+          "period": "DAILY",
+          "id": "6809347373",
+          "amountMicros": "10000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "151",
+      "conversions": 4,
+      "costMicros": "373011188",
+      "costPerConversion": 80820000,
+      "ctr": 0.027660743725957136,
+      "allConversions": 6,
+      "averageCpc": 2470272.7682119207,
+      "impressions": "5459"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9834580026",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": false,
+        "targetSearchNetwork": false,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Bingoil - Youtube Awereness",
+      "id": "9834580026",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6926401635",
+      "startDate": "2020-04-08",
+      "endDate": "2020-08-07",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9834580026",
+          "id": "9834580026"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6926401635",
+          "period": "CUSTOM_PERIOD",
+          "id": "6926401635",
+          "totalAmountMicros": "1200000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET",
+        "CONNECTED_TV"
+      ]
+    },
+    "metrics": {
+      "clicks": "539",
+      "conversions": 0,
+      "costMicros": "1200066238",
+      "ctr": 0.0011744275482789951,
+      "allConversions": 0,
+      "averageCpc": 2226467.974025974,
+      "impressions": "458947"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9834582651",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": false,
+        "targetSearchNetwork": false,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Bingoil - Youtube Awereness #2",
+      "id": "9834582651",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6925458143",
+      "startDate": "2020-04-08",
+      "endDate": "2020-04-18",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9834582651",
+          "id": "9834582651"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6925458143",
+          "period": "CUSTOM_PERIOD",
+          "id": "6925458143",
+          "totalAmountMicros": "200000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET",
+        "CONNECTED_TV"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9875613251",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Website traffic-Search - Lightmeup",
+      "id": "9875613251",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6939656818",
+      "startDate": "2020-04-15",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9875613251",
+          "id": "9875613251"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6939656818",
+          "period": "DAILY",
+          "id": "6939656818",
+          "amountMicros": "10000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9884405884",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Website traffic-Search-3",
+      "id": "9884405884",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6940681569",
+      "startDate": "2020-04-15",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9884405884",
+          "id": "9884405884"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6940681569",
+          "period": "DAILY",
+          "id": "6940681569",
+          "amountMicros": "10000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9885224634",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Website traffic-Search-4",
+      "id": "9885224634",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6940693128",
+      "startDate": "2020-04-15",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9885224634",
+          "id": "9885224634"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6940693128",
+          "period": "DAILY",
+          "id": "6940693128",
+          "amountMicros": "10000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/9954419656",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Original Campaign",
+      "id": "9954419656",
+      "campaignBudget": "customers/1481414841/campaignBudgets/6961513565",
+      "startDate": "2020-04-25",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/9954419656",
+          "id": "9954419656"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/6961513565",
+          "period": "DAILY",
+          "id": "6961513565",
+          "amountMicros": "15000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "1149",
+      "conversions": 40.5,
+      "costMicros": "1986450000",
+      "costPerConversion": 49048148.14814815,
+      "ctr": 0.04302565062722337,
+      "allConversions": 76,
+      "averageCpc": 1728851.1749347257,
+      "impressions": "26705"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10516335533",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": false,
+        "targetSearchNetwork": false,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Video Skippable - 2020-07-09",
+      "id": "10516335533",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7150443299",
+      "startDate": "2020-07-09",
+      "endDate": "2020-07-11",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10516335533",
+          "id": "10516335533"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7150443299",
+          "period": "CUSTOM_PERIOD",
+          "id": "7150443299",
+          "totalAmountMicros": "100000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET",
+        "CONNECTED_TV"
+      ]
+    },
+    "metrics": {
+      "clicks": "42",
+      "conversions": 0,
+      "costMicros": "23102075",
+      "ctr": 0.002471024298405601,
+      "allConversions": 0,
+      "averageCpc": 550049.4047619047,
+      "impressions": "16997"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10518880271",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Phrase Match [Original] - MAJ JG",
+      "id": "10518880271",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7152433569",
+      "startDate": "2020-07-09",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10518880271",
+          "id": "10518880271"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7152433569",
+          "period": "DAILY",
+          "id": "7152433569",
+          "amountMicros": "20000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "3195",
+      "conversions": 93.5,
+      "costMicros": "6112100000",
+      "costPerConversion": 65370053.47593583,
+      "ctr": 0.03737760151616187,
+      "allConversions": 177,
+      "averageCpc": 1913020.3442879498,
+      "impressions": "85479"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10536773945",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116100 - 25-34] - 5f09b9bc0b1bd",
+      "id": "10536773945",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7156013758",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10536773945",
+          "id": "10536773945"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7156013758",
+          "period": "DAILY",
+          "id": "7156013758",
+          "amountMicros": "6230000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "9",
+      "conversions": 0,
+      "costMicros": "28630000",
+      "ctr": 0.04205607476635514,
+      "allConversions": 0,
+      "averageCpc": 3181111.111111111,
+      "impressions": "214"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10536774173",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02",
+      "id": "10536774173",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7155993758",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10536773945",
+          "id": "10536773945"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7155993758",
+          "period": "DAILY",
+          "id": "7155993758",
+          "amountMicros": "20000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10536778784",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116105 - Female] - 5f09ba13166fe",
+      "id": "10536778784",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7155996134",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10536778784",
+          "id": "10536778784"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7155996134",
+          "period": "DAILY",
+          "id": "7155996134",
+          "amountMicros": "5600000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "7",
+      "conversions": 0,
+      "costMicros": "29410000",
+      "ctr": 0.043209876543209874,
+      "allConversions": 0,
+      "averageCpc": 4201428.571428572,
+      "impressions": "162"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10536786626",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116106 - Male] - 5f09ba24f39d3",
+      "id": "10536786626",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7157273982",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10536786626",
+          "id": "10536786626"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7157273982",
+          "period": "DAILY",
+          "id": "7157273982",
+          "amountMicros": "2890000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "10",
+      "conversions": 0,
+      "costMicros": "27280000",
+      "ctr": 0.0392156862745098,
+      "allConversions": 0,
+      "averageCpc": 2728000,
+      "impressions": "255"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10536786719",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116107 - Mobile] - 5f09ba364c99a",
+      "id": "10536786719",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7155996911",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10536786719",
+          "id": "10536786719"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7155996911",
+          "period": "DAILY",
+          "id": "7155996911",
+          "amountMicros": "4840000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "12",
+      "conversions": 0,
+      "costMicros": "35440000",
+      "ctr": 0.041237113402061855,
+      "allConversions": 0,
+      "averageCpc": 2953333.3333333335,
+      "impressions": "291"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10537015375",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116102 - 45-54] - 5f09b9de906d0",
+      "id": "10537015375",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7157272785",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10537015375",
+          "id": "10537015375"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7157272785",
+          "period": "DAILY",
+          "id": "7157272785",
+          "amountMicros": "7550000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "8",
+      "conversions": 1,
+      "costMicros": "50150000",
+      "costPerConversion": 50150000,
+      "ctr": 0.05263157894736842,
+      "allConversions": 2,
+      "averageCpc": 6268750,
+      "impressions": "152"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10537022794",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116099 - 18-24] - 5f09b9aa6ff49",
+      "id": "10537022794",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7157270859",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10537022794",
+          "id": "10537022794"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7157270859",
+          "period": "DAILY",
+          "id": "7157270859",
+          "amountMicros": "10570000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "16",
+      "conversions": 2,
+      "costMicros": "48820000",
+      "costPerConversion": 24410000,
+      "ctr": 0.035555555555555556,
+      "allConversions": 4,
+      "averageCpc": 3051250,
+      "impressions": "450"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10537053517",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116103 - 55-64] - 5f09b9efcb86e",
+      "id": "10537053517",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7155995024",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10537053517",
+          "id": "10537053517"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7155995024",
+          "period": "DAILY",
+          "id": "7155995024",
+          "amountMicros": "6790000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "6",
+      "conversions": 0,
+      "costMicros": "31410000",
+      "ctr": 0.06818181818181818,
+      "allConversions": 0,
+      "averageCpc": 5235000,
+      "impressions": "88"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10539165066",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116101 - 35-44] - 5f09b9cd7511a",
+      "id": "10539165066",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7156014424",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10539165066",
+          "id": "10539165066"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7156014424",
+          "period": "DAILY",
+          "id": "7156014424",
+          "amountMicros": "18690000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "19",
+      "conversions": 1,
+      "costMicros": "73240000",
+      "costPerConversion": 73240000,
+      "ctr": 0.03909465020576132,
+      "allConversions": 2,
+      "averageCpc": 3854736.8421052634,
+      "impressions": "486"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10539166257",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116104 - 65+] - 5f09ba014514d",
+      "id": "10539166257",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7155995918",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10539166257",
+          "id": "10539166257"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7155995918",
+          "period": "DAILY",
+          "id": "7155995918",
+          "amountMicros": "5910000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "8",
+      "conversions": 0,
+      "costMicros": "42050000",
+      "ctr": 0.04938271604938271,
+      "allConversions": 0,
+      "averageCpc": 5256250,
+      "impressions": "162"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/10539166953",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "[[Original Campaign] - Adext AI [6701-12051-Original] - 5f09b98a9fd02] - Adext AI [6701-12051-116108 - Desktop] - 5f09ba47de110",
+      "id": "10539166953",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7156016299",
+      "startDate": "2020-07-12",
+      "endDate": "2020-07-22",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/10539166953",
+          "id": "10539166953"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7156016299",
+          "period": "DAILY",
+          "id": "7156016299",
+          "amountMicros": "3900000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "12",
+      "conversions": 0,
+      "costMicros": "28060000",
+      "ctr": 0.03498542274052478,
+      "allConversions": 0,
+      "averageCpc": 2338333.3333333335,
+      "impressions": "343"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/11029554716",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "marketing-dead-campaign",
+      "id": "11029554716",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7310839643",
+      "startDate": "2020-09-03",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/11029554716",
+          "id": "11029554716"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7310839643",
+          "period": "DAILY",
+          "id": "7310839643",
+          "amountMicros": "20000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "36",
+      "conversions": 0,
+      "costMicros": "90030000",
+      "ctr": 0.0481283422459893,
+      "allConversions": 0,
+      "averageCpc": 2500833.3333333335,
+      "impressions": "748"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/11093820665",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": false,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "International campaign",
+      "id": "11093820665",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7335395260",
+      "startDate": "2020-09-11",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/11093820665",
+          "id": "11093820665"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7335395260",
+          "period": "DAILY",
+          "id": "7335395260",
+          "amountMicros": "1000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "64",
+      "conversions": 1,
+      "costMicros": "89600000",
+      "costPerConversion": 89600000,
+      "ctr": 0.08672086720867209,
+      "allConversions": 2,
+      "averageCpc": 1400000,
+      "impressions": "738"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/11138562706",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": false,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Growth Hacking campaign",
+      "id": "11138562706",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7352672375",
+      "startDate": "2020-09-16",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/11138562706",
+          "id": "11138562706"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7352672375",
+          "period": "DAILY",
+          "id": "7352672375",
+          "amountMicros": "3000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "9",
+      "conversions": 0,
+      "costMicros": "33760000",
+      "ctr": 0.018,
+      "allConversions": 0,
+      "averageCpc": 3751111.111111111,
+      "impressions": "500"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/11177203084",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "asdasdad",
+      "id": "11177203084",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7368684164",
+      "startDate": "2020-09-21",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/11177203084",
+          "id": "11177203084"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7368684164",
+          "period": "DAILY",
+          "id": "7368684164",
+          "amountMicros": "2000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/11236806859",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Broad Match [Original]",
+      "id": "11236806859",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7398966906",
+      "startDate": "2020-09-29",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/11236806859",
+          "id": "11236806859"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7398966906",
+          "period": "DAILY",
+          "id": "7398966906",
+          "amountMicros": "15000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "979",
+      "conversions": 28.5,
+      "costMicros": "1673150000",
+      "costPerConversion": 58707017.543859646,
+      "ctr": 0.05107737256743361,
+      "allConversions": 48.5,
+      "averageCpc": 1709039.8365679265,
+      "impressions": "19167"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12116171925",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "FR - Lead Gen- Max Conv - Growth Hacking + Dynamic",
+      "id": "12116171925",
+      "campaignBudget": "customers/1481414841/campaignBudgets/7993623808",
+      "startDate": "2021-01-19",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12116171925",
+          "id": "12116171925"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/7993623808",
+          "period": "DAILY",
+          "id": "7993623808",
+          "amountMicros": "40000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "919",
+      "conversions": 18.1,
+      "costMicros": "1853170000",
+      "costPerConversion": 102385082.87292817,
+      "ctr": 0.056519065190651904,
+      "allConversions": 18.1,
+      "averageCpc": 2016507.0729053319,
+      "impressions": "16260"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12249065411",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Lead Gen - EU - Growth Hacking",
+      "id": "12249065411",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8093482955",
+      "startDate": "2021-02-03",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12249065411",
+          "id": "12249065411"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8093482955",
+          "period": "DAILY",
+          "id": "8093482955",
+          "amountMicros": "20000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "5",
+      "conversions": 0,
+      "costMicros": "6200000",
+      "ctr": 0.03048780487804878,
+      "allConversions": 0,
+      "averageCpc": 1240000,
+      "impressions": "164"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12365427963",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "FR - Lead Gen- Max Conv - Paid Advertising",
+      "id": "12365427963",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8177266700",
+      "startDate": "2021-02-18",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12365427963",
+          "id": "12365427963"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8177266700",
+          "period": "DAILY",
+          "id": "8177266700",
+          "amountMicros": "25000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "69",
+      "conversions": 1,
+      "costMicros": "239590000",
+      "costPerConversion": 239590000,
+      "ctr": 0.0403744880046811,
+      "allConversions": 1,
+      "averageCpc": 3472318.84057971,
+      "impressions": "1709"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12426184268",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "FR - Lead Gen- Max Conv - Growth Hacking + Dynamic [Version Tufan]",
+      "id": "12426184268",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8237939210",
+      "startDate": "2021-02-26",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12426184268",
+          "id": "12426184268"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8237939210",
+          "period": "DAILY",
+          "id": "8237939210",
+          "amountMicros": "25000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12441066382",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "API Test Campaign",
+      "id": "12441066382",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8260412839",
+      "startDate": "2021-02-28",
+      "endDate": "2021-03-01",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12441066382",
+          "id": "12441066382"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8260412839",
+          "period": "DAILY",
+          "id": "8260412839",
+          "amountMicros": "50000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12447201981",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "API Test Campaign 2",
+      "id": "12447201981",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8265830552",
+      "startDate": "2021-03-01",
+      "endDate": "2021-03-02",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12447201981",
+          "id": "12447201981"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8265830552",
+          "period": "DAILY",
+          "id": "8265830552",
+          "amountMicros": "50000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12459708650",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12459708650",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8287249390",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12459708650",
+          "id": "12459708650"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8287249390",
+          "period": "DAILY",
+          "id": "8287249390",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12459723092",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12459723092",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8291082618",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12459723092",
+          "id": "12459723092"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8291082618",
+          "period": "DAILY",
+          "id": "8291082618",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12459735329",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12459735329",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8287268356",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12459735329",
+          "id": "12459735329"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8287268356",
+          "period": "DAILY",
+          "id": "8287268356",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12461633932",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12461633932",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8287264237",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12461633932",
+          "id": "12461633932"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8287264237",
+          "period": "DAILY",
+          "id": "8287264237",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12462112734",
+      "status": "REMOVED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12462112734",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8287342208",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12462112734",
+          "id": "12462112734"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8287342208",
+          "period": "DAILY",
+          "id": "8287342208",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12462121125",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion Test",
+      "id": "12462121125",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8291096862",
+      "startDate": "2021-03-03",
+      "endDate": "2021-03-04",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12462121125",
+          "id": "12462121125"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8291096862",
+          "period": "DAILY",
+          "id": "8291096862",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12466422608",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion 2 Test",
+      "id": "12466422608",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8292441526",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12466422608",
+          "id": "12466422608"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8292441526",
+          "period": "DAILY",
+          "id": "8292441526",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12466443110",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "test",
+      "id": "12466443110",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8292460690",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12466443110",
+          "id": "12466443110"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8292460690",
+          "period": "DAILY",
+          "id": "8292460690",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12468194527",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Campaign Conversion 3 Test",
+      "id": "12468194527",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8292479747",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12468194527",
+          "id": "12468194527"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8292479747",
+          "period": "DAILY",
+          "id": "8292479747",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12468206527",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "test_1920971520001499721743",
+      "id": "12468206527",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8296329273",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12468206527",
+          "id": "12468206527"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8296329273",
+          "period": "DAILY",
+          "id": "8296329273",
+          "amountMicros": "100000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12468249805",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "test_1920971520000254013463",
+      "id": "12468249805",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8296345113",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12468249805",
+          "id": "12468249805"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8296345113",
+          "period": "DAILY",
+          "id": "8296345113",
+          "amountMicros": "150000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12468258604",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "test_1920971520000715386908",
+      "id": "12468258604",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8296351563",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12468258604",
+          "id": "12468258604"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8296351563",
+          "period": "DAILY",
+          "id": "8296351563",
+          "amountMicros": "150000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12468329680",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Son Test_1920971520000828633104",
+      "id": "12468329680",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8292565142",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12468329680",
+          "id": "12468329680"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8292565142",
+          "period": "DAILY",
+          "id": "8292565142",
+          "amountMicros": "15000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12469271418",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "test_1920971520000073658393",
+      "id": "12469271418",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8296345161",
+      "startDate": "2021-03-04",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12469271418",
+          "id": "12469271418"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8296345161",
+          "period": "DAILY",
+          "id": "8296345161",
+          "amountMicros": "150000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12518563153",
+      "status": "ENABLED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": false,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "FR - Lead Gen - New KW - New",
+      "id": "12518563153",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8333092466",
+      "startDate": "2021-03-11",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12518563153",
+          "id": "12518563153"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8333092466",
+          "period": "DAILY",
+          "id": "8333092466",
+          "amountMicros": "50000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "470",
+      "conversions": 13.4,
+      "costMicros": "1126360000",
+      "costPerConversion": 84056716.41791044,
+      "ctr": 0.03062088735422503,
+      "allConversions": 13.4,
+      "averageCpc": 2396510.638297872,
+      "impressions": "15349"
+    }
+  },
+  {
+    "campaignGroup": {
+      "resourceName": "customers/1481414841/campaigns/12571021159",
+      "status": "PAUSED",
+      "networkSettings": {
+        "targetGoogleSearch": true,
+        "targetSearchNetwork": true,
+        "targetContentNetwork": true,
+        "targetPartnerSearchNetwork": false
+      },
+      "name": "Test_1920971520001882533927",
+      "id": "12571021159",
+      "campaignBudget": "customers/1481414841/campaignBudgets/8377130805",
+      "startDate": "2021-03-18",
+      "endDate": "2037-12-30",
+      "campaignBudgetDetail": {
+        "campaignGroup": {
+          "resourceName": "customers/1481414841/campaigns/12571021159",
+          "id": "12571021159"
+        },
+        "campaignBudget": {
+          "resourceName": "customers/1481414841/campaignBudgets/8377130805",
+          "period": "DAILY",
+          "id": "8377130805",
+          "amountMicros": "20000000"
+        }
+      },
+      "campaignDeviceList": [
+        "DESKTOP",
+        "MOBILE",
+        "TABLET"
+      ]
+    },
+    "metrics": {
+      "clicks": "0",
+      "conversions": 0,
+      "costMicros": "0",
+      "allConversions": 0,
+      "impressions": "0"
+    }
+  }
+]

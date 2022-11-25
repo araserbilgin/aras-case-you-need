@@ -1,0 +1,34 @@
+<header class="navbar navbar-expand-md bd-navbar">
+  <nav class="container-fluid flex-wrap flex-md-nowrap" aria-label="Main navigation">
+    <a class="navbar-brand p-0 me-2" href="/" aria-label="Bootstrap">
+
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bdNavbar"
+      aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="bi" fill="currentColor" viewBox="0 0 16 16">
+        <path fill-rule="evenodd"
+          d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z">
+        </path>
+      </svg>
+
+    </button>
+    <ul class="list-unstyled topbar-menu float-end mb-0">
+      <li class="dropdown notification-list">
+
+        <div class="d-inline-block" ngbDropdown #myDrop="ngbDropdown">
+          <button type="button" class="btn btn-outline-primary me-2" id="dropdownManual" ngbDropdownAnchor
+            (focus)="myDrop.open()">
+            Toggle dropdown
+          </button>
+          <div ngbDropdownMenu aria-labelledby="dropdownManual">
+            <button ngbDropdownItem>Action - 1</button>
+            <button ngbDropdownItem>Another Action</button>
+            <button ngbDropdownItem>Something else is here</button>
+          </div>
+        </div>
+      </li>
+    </ul>
+
+  </nav>
+</header>
